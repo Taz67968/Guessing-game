@@ -5,7 +5,6 @@
 
 body {
   background-color: purple;
-  margin-top: 5px;
   font-family: "mona sans", serif;
 }
 
@@ -14,9 +13,9 @@ body {
   background-color: white;
   text-align: center;
   padding-bottom: 10%;
-  margin-top: 30%;
-  margin-left: 7%;
-  margin-right: 7%;
+  margin-top: 20%;
+  margin-left: 20%;
+  margin-right: 20%;
   border-radius: 5%;
   font-family: "mona sans", sans-serif;
 
@@ -25,8 +24,8 @@ body {
   }
 
   p {
-    margin-top: 13px;
-    font-size: 12px;
+    margin-top: 4%;
+    font-weight: bolder;
   }
 
   button {
@@ -42,6 +41,7 @@ body {
 
 input#guess {
   width: 59%;
+  margin-top: 5%;
   padding-top: 2%;
   padding-bottom: 2%;
   text-align: center;
