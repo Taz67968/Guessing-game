@@ -42,7 +42,7 @@ body {
 
 input#guess {
   width: 59%;
-  padding-top: 3%;
-  padding-bottom: 3%;
+  padding-top: 2%;
+  padding-bottom: 2%;
   text-align: center;
 }
