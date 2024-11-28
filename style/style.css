@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: purple;
+  font-family: "mona sans", serif;
+}
+
+#game-main {
+  display: block;
+  background-color: white;
+  text-align: center;
+  padding-bottom: 10%;
+  margin-top: 20%;
+  margin-left: 20%;
+  margin-right: 20%;
+  border-radius: 5%;
+  font-family: "mona sans", sans-serif;
+
+  h1 {
+    padding-top: 24px;
+  }
+
+  p {
+    margin-top: 4%;
+    font-weight: bolder;
+  }
+
+  button {
+    width: 31%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    background-color: orange;
+    color: white;
+    margin-top: 7%;
+  }
+}
+
+input#guess {
+  width: 59%;
+  margin-top: 5%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  text-align: center;
+}
