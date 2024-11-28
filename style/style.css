@@ -14,9 +14,9 @@ body {
   background-color: white;
   text-align: center;
   padding-bottom: 10%;
-  margin-top: 45%;
-  margin-left: 7px;
-  margin-right: 7px;
+  margin-top: 30%;
+  margin-left: 7%;
+  margin-right: 7%;
   border-radius: 5%;
   font-family: "mona sans", sans-serif;
 
@@ -38,4 +38,11 @@ body {
     color: white;
     margin-top: 7%;
   }
+}
+
+input#guess {
+  width: 59%;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  text-align: center;
 }
